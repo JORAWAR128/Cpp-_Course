@@ -42,7 +42,7 @@ Each folder includes:
 
 ## 📚 Learning Source
 
-> Based on [CodeWithHarry’s C++ YouTube Playlist](https://www.youtube.com/playlist?list=PLu0W_9lII9ah7DDtYtflgwMwpT3xmjXY9)  
+> Based on [CodeWithHarry’s C++ YouTube Playlist](https://youtu.be/j8nAHeVKL08?si=GgQDvDbBs26ZVgyq)  
 > + Additional practice & notes by me!
 
 ---
